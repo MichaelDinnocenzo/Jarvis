@@ -1,0 +1,20 @@
+[
+  {
+    "type": "decision",
+    "content": "API request failed: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+    "timestamp": "2026-01-28T12:39:19.018674",
+    "metadata": {}
+  },
+  {
+    "type": "decision",
+    "content": "API request failed: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+    "timestamp": "2026-01-28T12:39:27.881090",
+    "metadata": {}
+  },
+  {
+    "type": "decision",
+    "content": "API request failed: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+    "timestamp": "2026-01-28T12:39:43.641877",
+    "metadata": {}
+  }
+]

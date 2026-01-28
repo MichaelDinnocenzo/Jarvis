@@ -1,0 +1,32 @@
+{
+  "timestamp": "2026-01-28T12:39:43.695184",
+  "total_iterations": 3,
+  "goals": {
+    "created": 0,
+    "completed": 0,
+    "failed": 0,
+    "active": 0,
+    "total": 0
+  },
+  "memory": {
+    "total_events": 3,
+    "events_by_type": {
+      "decision": 3
+    },
+    "stats": {
+      "added": 3,
+      "retrieved": 3
+    }
+  },
+  "coder": {
+    "codes_generated": 0,
+    "codes_refactored": 0,
+    "total_operations": 0
+  },
+  "executor": {
+    "total_executions": 0,
+    "successful": 0,
+    "failed": 0,
+    "success_rate": "0.0%"
+  }
+}
